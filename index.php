@@ -91,16 +91,14 @@
         $angka1 = wtnntw($tambahx[0], "wtn");
         $angka2 = wtnntw($tambahx[1], "wtn");
         $hasil = $angka1 + $angka2;
-        echo $tulisan." sama dengan ".wtnntw($hasil);
     } elseif ($kurang == true) {
         $angka1 = wtnntw($kurangx[0], "wtn");
         $angka2 = wtnntw($kurangx[1], "wtn");
         $hasil = $angka1 - $angka2;
-        echo $tulisan." sama dengan ".wtnntw($hasil);
     } elseif ($kali == true) {
         $angka1 = wtnntw($kalix[0], "wtn");
         $angka2 = wtnntw($kalix[1], "wtn");
         $hasil = $angka1 * $angka2;
-        echo $tulisan." sama dengan ".wtnntw($hasil);
     }
+    echo $tulisan." sama dengan ".wtnntw($hasil);
 ?>
