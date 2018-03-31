@@ -1,1 +1,1 @@
-Demo: [demo](https://gxry.000webhostapp.com/wordsarithmetic/)
+Demo: [Words Arithmetic](https://gxry.000webhostapp.com/wordsarithmetic/)
